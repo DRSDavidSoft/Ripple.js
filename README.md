@@ -7,7 +7,7 @@ Adds Material style ripple to buttons
 
 ## Installation
 ```html
-<link href="stylesheet" type="text/css" href="ripple.min.css">
+<link rel="stylesheet" type="text/css" href="ripple.min.css">
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="ripple.min.js"></script>
 ```
